@@ -1,0 +1,9 @@
+[submodule "TexSyn"]
+	path = TexSyn
+	url = https://github.com/cwreynolds/TexSyn
+[submodule "LazyPredator"]
+	path = LazyPredator
+	url = https://github.com/cwreynolds/LazyPredator
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv
