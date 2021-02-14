@@ -1,2 +1,5 @@
 TexSyn-build/
 TexSyn-install/
+opencv/build/
+opencv/build_d/
+
